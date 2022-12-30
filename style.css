@@ -1,9 +1,22 @@
 body {
-    color: teal;
+    background-color: teal;
+    width: 50px;
+    margin: 60px auto;
+}
+
+body {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+
 }
 
 h1 {
     font-size: 54px;
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
+    border: 50px solid white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 10px;
 }
